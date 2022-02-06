@@ -1,0 +1,1 @@
+﻿Get-Process | Sort-Object -Property Id | Out-File -filepath "E:\GitHubRep\Exadel-Internship\task3\Processes.txt"
